@@ -1,0 +1,7 @@
+
+.mycontact input{
+    border: none;
+    border-bottom: 2px black;
+    /* outline: none; */
+    border-bottom: 2px solid #b59999;
+}
