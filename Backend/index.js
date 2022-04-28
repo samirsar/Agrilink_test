@@ -12,6 +12,7 @@ app.get('/',(req,res)=>{
 })
 
 app.use('/api/auth',require('./routes/auth'));
+app.use('/api/report',require('./routes/Reports'));
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
   })
