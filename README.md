@@ -1,5 +1,6 @@
+i
 
-run with  npm run both  command
+run with  npm run start  command
 
 
 video >>>>>> https://drive.google.com/file/d/1GZ_H0Rqd3kM-JoFQSla0M3rGJ-OW29-f/view?usp=sharing
